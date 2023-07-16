@@ -22,6 +22,6 @@ WeatherReport Object:
 }  
 ```
 
-Backend URL: http://weatherreportapitodeploy20230531141202.azurewebsites.net/ (Need to use available endpoints, such as http://weatherreportapitodeploy20230531141202.azurewebsites.net/api/WeatherReport/)
-
 Frontend: https://github.com/redmblue/weather-reporting-app-frontend/
+
+Backend URL: http://weatherreportapitodeploy20230531141202.azurewebsites.net/ (Need to use available endpoints listed above, such as http://weatherreportapitodeploy20230531141202.azurewebsites.net/api/WeatherReport/)
